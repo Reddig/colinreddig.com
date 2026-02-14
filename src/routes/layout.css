@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+
+.h1 {
+    color: red;
+}
+.a {
+    color: red;
+}

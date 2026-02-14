@@ -1,0 +1,9 @@
+---
+title: Your blog post title
+description: A short description of your blog post
+slug: post1
+date: '2024-07-04'
+---
+
+# {title}
+This is a sample blog post.
