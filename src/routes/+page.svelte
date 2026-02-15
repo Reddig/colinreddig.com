@@ -6,6 +6,7 @@
     // Do things with data.posts such as sorting, filtering, etc.
 </script>
 
+<!-- credit to tailblocks for this component https://tailblocks.cc/ -->
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-col">

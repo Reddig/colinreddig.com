@@ -2,6 +2,8 @@
 	let { headerDesc, header, bodyText, image, imageAlt, link} = $props();
 </script>
 
+
+<!-- credit to tailblocks for this component https://tailblocks.cc/ -->
 {#snippet imageSnippet()}
     <img class="h-40 rounded w-full object-cover object-center mb-6" src={image} alt={imageAlt}>
 {/snippet}
