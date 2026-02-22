@@ -1,5 +1,6 @@
 import { mdsvex } from 'mdsvex';
 import adapter from '@sveltejs/adapter-static';
+import relativeImages from "mdsvex-relative-images";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -13,7 +14,7 @@ const config = {
 			}
 		)
 	},
-	preprocess: [mdsvex()],
+	preprocess: [mdsvex({ remarkPlugins: [relativeImages] })],
 	extensions: ['.svelte', '.svx']
 };
 

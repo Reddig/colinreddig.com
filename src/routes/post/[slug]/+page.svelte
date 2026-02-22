@@ -13,12 +13,9 @@
           <span class="mt-1 text-gray-500 text-sm">{data.metadata.date}</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed prose dark:prose-invert
-          prose-h1:font-bold prose-h1:text-xxl
-          prose-a:text-blue-600 prose-p:text-justify prose-img:rounded-xl
-          prose-headings:bold"> 
-          <svelte:component this={data.content} />
-          </p>
+          <article class="leading-relaxed prose prose-base dark:prose-invert prose-h1:font-bold prose-h1:text-xxl prose-a:text-blue-600 prose-p:text-justify prose-img:rounded-xl prose-headings:bold bg-white border-solid border border-gray-300 rounded-lg p-8">
+            <svelte:component this={data.content} />
+          </article>
         </div>
       </div>
     </div>

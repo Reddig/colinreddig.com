@@ -15,7 +15,7 @@
         <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Projects</h1>
         <div class="h-1 w-20 bg-indigo-500 rounded"></div>
       </div>
-      <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Hi! I'm a software engineer by day and also I guess by night. Here are some things I've worked on!</p>
+      <p class="lg:w-1/2 w-full leading-relaxed text-gray-500 bg-sky-100 p-4 rounded-lg">Hi! I'm a software engineer by day and also I guess by night. Here are some things I've worked on!</p>
     </div>
     <div class="flex flex-wrap -m-4">
       <ProjectTile 
@@ -29,7 +29,7 @@
       <ProjectTile 
         headerDesc="Web Development" 
         header="This Website!"
-        bodyText="I set up this website as a way to learn modern web development in SvelteKit and Tailwind CSS. I also wanted a place to share thoughts on a blog of sorts, since I'm mostly off of social media at this point. I also wanted an excuse to do some coding without the necessity of AI tools."
+        bodyText="I set up this website as a way to learn modern web development in SvelteKit and Tailwind CSS. I also wanted a place to share thoughts on a blog of sorts, since I'm mostly off of social media at this point. I also wanted an excuse to do some coding for fun!"
         image={siteScreenshot}
         imageAlt="A screenshot of the homepage of this website"
         link="https://github.com/Reddig/colinreddig.com"
