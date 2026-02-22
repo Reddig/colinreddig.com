@@ -1,6 +1,6 @@
 ---
 title: Why am I doing this?
-description: A brief backstory and explanation of what this website is.
+description: A brief explanation of what this website is.
 slug: why
 date: '2026-02-16'
 category: Tech

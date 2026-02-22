@@ -11,4 +11,5 @@
 }
 body {
     @apply bg-sky-50;
+    @apply dark:bg-slate-900;
 }
