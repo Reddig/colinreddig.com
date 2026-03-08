@@ -1,0 +1,19 @@
+---
+title: Why I Want the K-Zone Gone — And Why You Probably Don't
+description: The contrasting TV presentations in MLB Spring Training and the World Baseball Classic in 2026 at the dawn of ABS.
+slug: the-kase-against-the-kzone
+date: '2026-03-07'
+category: Tech
+---
+
+# {title}
+*{description}*
+
+Longtime baseball watchers (and Spring Training-watching sickos), will remember a time when most local MLB broadcasts lacked the ubiquitous box that displays ball-strike calls.
+If you've only recently gotten invested in the sport, it may be jarring to flip on a Spring Training game in 2026 and see a catcher's chest protector unobscured by a ghostly rectangle.
+
+For those of you who have arrived at this page without watching baseball in the past 15 years, here is a frame from the 2025 World Series.
+
+![image]($lib/assets/post-images/kzone2025worldseries.png "A picture of Shohei Ohtani throwing a pitch to Bo Bichette in the 2025 World Series, with the ball-strike zone superimposed over catcher Will Smith")
+
+Each network has their own implementation of what many call the K-Zone (ESPN's branded box), and some -- like this one used on Fox telecasts -- are relatively subtle and unobtrusive. There have been many implementations that I have found visually offense, but that's not what I want to discuss in this post. Regardless of the visual style of the box, its primary function is unchanged: Informing the viewer whether a given pitch _should have_ been called a ball or a strike. 
