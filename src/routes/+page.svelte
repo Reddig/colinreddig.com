@@ -26,7 +26,7 @@
           </div>
         </div>
         <div class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
-          <p class="leading-relaxed text-lg mb-4 dark:text-gray-300">I set up this website as a way to learn a little bit about modern front-end development with Svelte and Tailwind CSS. I quickly discovered I had a poor eye for design and found templates online that look pretty. I hope to be adding more posts here soon! Thank you for visiting!</p>
+          <p class="leading-relaxed text-lg mb-4 dark:text-gray-300">I set up this website as a way to learn a little bit about modern front-end development with Svelte and Tailwind CSS, and showcase some of my projects. I hope to be adding more posts here soon! Thank you for visiting!</p>
           <a class="text-indigo-500 dark:text-indigo-400 inline-flex items-center" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Learn Most
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
