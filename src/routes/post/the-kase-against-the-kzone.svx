@@ -1,8 +1,8 @@
 ---
-title: Why I Want the K-Zone Gone — And Why You Probably Don't
+title: My Beef with the K-Zone
 description: The contrasting TV presentations in MLB Spring Training and the World Baseball Classic in 2026 at the dawn of ABS.
 slug: the-kase-against-the-kzone
-date: '2026-03-07'
+date: '2026-03-21'
 category: Tech
 ---
 
@@ -16,4 +16,18 @@ For those of you who have arrived at this page without watching baseball in the 
 
 ![image]($lib/assets/post-images/kzone2025worldseries.png "A picture of Shohei Ohtani throwing a pitch to Bo Bichette in the 2025 World Series, with the ball-strike zone superimposed over catcher Will Smith")
 
-Each network has their own implementation of what many call the K-Zone (ESPN's branded box), and some -- like this one used on Fox telecasts -- are relatively subtle and unobtrusive. There have been many implementations that I have found visually offense, but that's not what I want to discuss in this post. Regardless of the visual style of the box, its primary function is unchanged: Informing the viewer whether a given pitch _should have_ been called a ball or a strike. 
+Each network has their own implementation of what many call the K-Zone (ESPN's branded box), and some -- like this one used on Fox telecasts -- are relatively subtle and unobtrusive. There have been many implementations that I have found visually offense, but that's not what I want to discuss in this post. Regardless of the visual style of the box, its primary function is unchanged: Informing the viewer whether a given pitch _should have_ been called a ball or a strike. Herein lies my main complaint -- the overlaid strike zone cannot be trusted! While umpires may tend to value their own skills,
+over the accuracy of technology, former MLB ump James Joyce [was quoted](https://www.audacy.com/national/sports/former-mlb-umpire-tv-strike-zone-not-close-to-100-accurate) saying "There are two feeds: a home feed and an away feed. You can, at times, look up and the pitch comes in, the away feed may have it in a certain location and the home feed is in a different location."
+
+If it were abundantly clear that the TV zone were merely a "best guess" or a suggestion, I probably wouldn't have bothered writing this article.
+However, many TV zones go further to indicate whether or not a ball crossed the zone -- by filling in the circle, or showing a little "K" inside the ball.
+
+![image]($lib/assets/post-images/balllow.webp "A still frame of a catcher holding a ball after a pitch. The picture shows a ball indicated by the on-screen strike zone, with an empty circle.")
+
+It seems to me that most broadcasters, intentionally or not, will avoid declaring the K-Zone to be the arbiter of truth. Watching enough games, you'll often hear the refrains like "It appears to have been a little bit low", in the case of a borderline pitch. However, I believe the casual fan does not understand this distinction -- and why should they need to? In football, the importance of precision for its ubiquitous, yellow first down marker is rarely relevant, beyond maybe a couple plays per game. Networks know that they can fudge the location of the line without much consequence. The strike zone's precision, on the other hand, may be the single most important call that officials make in professional sports. It does not seem unreasonable to me that this suggestion of accuracy has led to countless fans (rightly or otherwise) crying foul of poor calls, when in reality it may have simply been poor technology.
+
+The most egregious complaint that I just went over has been, for now, eliminated by MLB's adoption of the Automated Ball-Strike Challenge System, or ABS, which allows teams to challenge ball-strike calls. In order to prevent shenanigans (and potential confusion for viewers), MLB has instructed networks to not display whether a pitch "should have" been called a ball or strike, via filled-in circles or little "K's" on screen. For now, however, the ghostly zone will remain.
+
+In closing, I want to make another pitch as to why on-screen zones find themselves as relics of the past, like NHL's failed glowing puck experiment. On the fantastic baseball podcast Effectively Wild, [episode 2097](https://blogs.fangraphs.com/effectively-wild-episode-2097-how-to-direct-a-baseball-broadcast/), the hosts bring on John DeMarsico, the game director of SNY. In this interview, he discusses how SNY was the final major broadcaster to adopt the on-screen zone. In part, this was due to technical limitations -- the on-screen zone adds noticeable delay to the center field camera. This delay causes infield liners to be nearly impossible to broadcast in real-time. If you've ever seen a batter smoke a ball on a line, only for TV to cut to the first baseman holding the ball -- with no live shot of the ball in flight -- this delay is largely to blame. His other reason for rejecting "progress" via a K-Zone struck me more poignantly -- "every single pitch, for me, is a little drama.", says DeMarsico. "You have these little moments where, one, how do I recognize that pitch? Is it a ball or a strike to my eye? Second of all, will the umpire call it a ball and strike? And third of all, how will the batter or bench react to that call?".
+
+Watching Spring Training games this year has reminded me of DeMarsico's quote, and I've been really struck by how much more engaging it can be to watch a game where you, the viewer, need to determine for yourself if a pitch was a ball or a strike. I'll see a pitch that clearly missed the zone called a strike, awaiting a challenge that never comes. Was I wrong and did the ump made that tough call correctly? Was I right, but the batter missed their opportunity to challenge? To me, the intrigue of baseball comes from subtle strategy and I relish holding on to these little dramas.
