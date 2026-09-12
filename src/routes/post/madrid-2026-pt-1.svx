@@ -1,13 +1,15 @@
 ---
 title: My Trip to Madrid for the Total Solar Eclipse
 description: I looked at the sun... and lived???
-slug: madrid-2026
-date: '2026-08-29'
+slug: madrid-2026-pt-1
+date: '2026-9-12'
 category: Travel
 ---
 
+# Madrid 2026 (Part 1)
+
 I recently got back from Madrid, Spain (and Lisbon, Portugal) after almost 10 days abroad. 
-This was my first time out of North America so I wanted to document everything I saw.
+This was my first time out of North America so I wanted to document (almost) everything I saw.
 
 ### Day 0 - Friday, August 7
 
