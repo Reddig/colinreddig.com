@@ -1,5 +1,13 @@
 {
 	"files.associations": {
 		"*.css": "tailwindcss"
-	}
+	},
+	"spellright.language": [
+		"en"
+	],
+	"spellright.documentTypes": [
+		"markdown",
+		"latex",
+		"plaintext"
+	]
 }

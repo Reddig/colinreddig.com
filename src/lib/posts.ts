@@ -1,7 +1,7 @@
 export async function getPosts() {
   const posts = import.meta.glob('/src/routes/post/*.svx');
 
-  return await Promise.all(
+  var promises = await Promise.all(
     Object.entries(posts).map(async ([path, resolver]) => {
       const slug = path.split('/').pop()!.split('.')[0];
       const post = (await resolver());
@@ -11,4 +11,9 @@ export async function getPosts() {
       };
     })
   );
+
+  promises = promises.sort(function(a, b) {
+    return (a.metadata.date > b.metadata.date) ? -1 : ((a.metadata.date < b.metadata.date) ? 1 : 0);
+});
+  return promises
 }
