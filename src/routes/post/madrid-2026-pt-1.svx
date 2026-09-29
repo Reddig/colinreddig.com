@@ -188,7 +188,7 @@ Casually sauntering through the park, he made his appearance with style and grac
 
 As we watched the sun set over the city, the gathered crowd applauded its retreat over the horizon.
 
-![image]($lib/assets/post-images/debod.jpg "The sunset through the trees over Madrid.")
+![image]($lib/assets/post-images/sunsetdebod.jpg "The sunset through the trees over Madrid.")
 *Applause-Worthy Sunset*
 
 ---
