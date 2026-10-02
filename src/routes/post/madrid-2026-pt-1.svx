@@ -2,7 +2,7 @@
 title: Madrid for the Total Solar Eclipse (Day 0 to 5)
 description: I looked at the sun... and lived???
 slug: madrid-2026-pt-1
-date: '2026-9-12'
+date: '2026-09-12'
 category: Travel
 ---
 
