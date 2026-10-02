@@ -1,12 +1,13 @@
 ---
-title: My Trip to Madrid for the Total Solar Eclipse
+title: Madrid for the Total Solar Eclipse (Day 0 to 5)
 description: I looked at the sun... and lived???
 slug: madrid-2026-pt-1
 date: '2026-9-12'
 category: Travel
 ---
 
-# Madrid 2026 (Part 1)
+# {title}
+*{description}*
 
 I recently got back from Madrid, Spain (and Lisbon, Portugal) after almost 10 days abroad. 
 This was my first time out of North America so I wanted to document (almost) everything I saw.
@@ -49,8 +50,9 @@ to TAP's tireless work.
 
 Blessed with powerful air conditioning and near-exit-row leg room, our 60-minute flight to Madrdi was painless and uneventful.
 After catching the airport bus to our Airbnb, we dropped our luggage and headed to the nearest coffee shop, a five minute walk up the street.
-At Chloe Lan Coffee, we met up with friends and were treated to excellent pastries and a variety of interesting coffees. 
+At Chloe Lan Coffee, we met up with friends and were treated to excellent pastries and a variety of interesting coffees.
 One of my favorites was the *Café Bombon*, a sugary and caffeinated explosion that was perfect for extreme jet lag and exhaustion.
+Our vacation would see many subsequent visits to Chloe Lan, due to its proximity and friendly service.
 
 ![image]($lib/assets/post-images/chloelanmurariabby.jpg "A photograph of me, Murari, and Abby at Chloe Lan")
 *The faces of 3 very jet-lagged inividuals*
@@ -171,6 +173,7 @@ Luck was on our side, and birds were present! Aided by Merlin and our trusty bin
 ![image]($lib/assets/post-images/littleegret.jpg "A photo of Little Egret")
 *Little Egret*
 
+----
 Once our eBird checklist was sufficiently complete, our posse headed to the Temple of Debod.
 The temple is originally from Egypt in the 2nd Century, and makes a great place to watch the sunset.
 More crucially, it was also home to a Common Hoopoe, a charmingly-strange bird I had been hoping to see while in Madrid.
@@ -179,14 +182,17 @@ Casually sauntering through the park, he made his appearance with style and grac
 ![image]($lib/assets/post-images/debod.jpg "A temple of Debod")
 *The Temple of Debod*
 
-
 ![image]($lib/assets/post-images/hoopoe.jpg "A photo of a Common Hoopoe in the grass.")
 *Common Hoopoe*
 
+---
+
 As we watched the sun set over the city, the gathered crowd applauded its retreat over the horizon.
 
-![image]($lib/assets/post-images/debod.jpg "The sunset through the trees over Madrid.")
+![image]($lib/assets/post-images/sunsetdebod.jpg "The sunset through the trees over Madrid.")
 *Applause-Worthy Sunset*
+
+---
 
 With nature's beauty acclaimed, we made our way to an unassuming bar called *La Sifonería de Plaza de España*.
 The 7 of us were seated at the 6-seat bar, where we rotated the solo stander.
@@ -240,11 +246,15 @@ Renfe's train to Valladolid was fast, smooth, and comfortable -- transporting us
 ![image]($lib/assets/post-images/300kph.jpg "A photo of a sign indicating the train's speed at 300 kph")
 *Our train's top speed of 300 kph (185 mph)*
 
+---
+
 Once in Valladolid -- our destination for staring the sun -- we grabbed a bite, some coffee, and observed Valladolid Cathedral.
 The cathedral was as impressive as it was old, and its high ceilings were stunning to behold.
 
 ![image]($lib/assets/post-images/cathedral.jpg "The interior of the Valladolid Cathedral")
 *Valladolid Cathedral*
+
+---
 
 After having given the stones our reverence, we wandered around the shopping corridor and eventually met our 8th and 9th members -- Kiley and Grant -- at *Rioluz Gastronomía*.
 Rioluz was a gluten-free (with the exception of beer) restaurant on the outskirts of Valladolid, which had a tremedenous wine and cider offering, of which we took advantage.
@@ -254,6 +264,8 @@ While there were many Indian Peafowl (peacocks), I was informed via email that t
 
 ![image]($lib/assets/post-images/peafowl.jpg "A photo of a peacock in the park")
 *Indian Peafowl (no longer on my eBird Checklist)*
+
+---
 
 After a few more stops to indulge in beverages, we made the uphill trek to a local observation spot to get our best view of the sun.
 Joining a few hundred locals and tourists alike, we donned the eclipse glasses and waited (and ate our picnic dinner).
@@ -269,5 +281,6 @@ The sun's low position in the sky provided a more full and clear look at the ecl
 
 ---
 
-## PART 2 -- COMING SOON!
-This post has taken MUCH longer than expected to write so I'm going to make this a two-parter for my sanity's sake (and because this site does not support lazy-loading yet lol).
+## Part 2
+If you liked it, you can →→→→
+[Continue Reading](/post/madrid-2026-pt-2)
