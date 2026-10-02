@@ -13,7 +13,7 @@
           <span class="mt-1 text-gray-500 dark:text-gray-400 text-sm">{data.metadata.date}</span>
         </div>
         <div class="md:flex-grow">
-          <article class="leading-relaxed prose prose-base dark:prose-invert prose-h1:font-bold prose-h1:text-xxl prose-a:text-blue-600 prose-p:text-justify prose-img:rounded-xl prose-headings:bold bg-white dark:bg-gray-800 border-solid border border-gray-300 rounded-lg p-8">
+          <article class="leading-relaxed prose prose-base dark:prose-invert prose-h1:font-bold prose-h1:text-xxl prose-a:text-blue-600 prose-p:text-justify prose-img:rounded-xl prose-headings:bold bg-white dark:bg-gray-800 border-solid border border-gray-300 rounded-lg p-8 dark:prose-hr:bg-gray-300">
             <svelte:component this={data.content} />
           </article>
         </div>
@@ -21,3 +21,4 @@
     </div>
   </div>
 </section>
+
